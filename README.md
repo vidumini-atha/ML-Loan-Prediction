@@ -67,5 +67,5 @@ o	ROC AUC; 0.78
 
 ## 📌 Contributors
 •	Vidumini Athapaththu\
-•	Thrunethu Wanniarachch
+•	Tharunethu Wanniarachchi
 
