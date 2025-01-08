@@ -59,8 +59,11 @@ o	ROC AUC: 0.8
 o	Accuracy: 74.68%\
 o	ROC AUC; 0.78
 
-## 📌 How to Use
+## 📌   How to Use
 1. Clone the repository:
+```
+  https://github.com/vidumini-atha/ML-Loan-Prediction.git
+```
 
 ## 📌 Contributors
 •	Vidumini Athapaththu\
